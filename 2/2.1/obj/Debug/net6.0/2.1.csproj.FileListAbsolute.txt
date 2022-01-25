@@ -1,0 +1,30 @@
+E:\2\2.1\bin\Debug\net6.0\2.1.exe
+E:\2\2.1\bin\Debug\net6.0\2.1.deps.json
+E:\2\2.1\bin\Debug\net6.0\2.1.runtimeconfig.json
+E:\2\2.1\bin\Debug\net6.0\2.1.dll
+E:\2\2.1\bin\Debug\net6.0\ref\2.1.dll
+E:\2\2.1\bin\Debug\net6.0\2.1.pdb
+E:\2\2.1\obj\Debug\net6.0\2.1.csproj.AssemblyReference.cache
+E:\2\2.1\obj\Debug\net6.0\2.1.GeneratedMSBuildEditorConfig.editorconfig
+E:\2\2.1\obj\Debug\net6.0\2.1.AssemblyInfoInputs.cache
+E:\2\2.1\obj\Debug\net6.0\2.1.AssemblyInfo.cs
+E:\2\2.1\obj\Debug\net6.0\2.1.csproj.CoreCompileInputs.cache
+E:\2\2.1\obj\Debug\net6.0\2.1.dll
+E:\2\2.1\obj\Debug\net6.0\ref\2.1.dll
+E:\2\2.1\obj\Debug\net6.0\2.1.pdb
+E:\2\2.1\obj\Debug\net6.0\2.1.genruntimeconfig.cache
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\2\2.1\bin\Debug\net6.0\2.1.exe
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\2\2.1\bin\Debug\net6.0\2.1.deps.json
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\2\2.1\bin\Debug\net6.0\2.1.runtimeconfig.json
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\2\2.1\bin\Debug\net6.0\2.1.dll
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\2\2.1\bin\Debug\net6.0\ref\2.1.dll
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\2\2.1\bin\Debug\net6.0\2.1.pdb
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\2\2.1\obj\Debug\net6.0\2.1.csproj.AssemblyReference.cache
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\2\2.1\obj\Debug\net6.0\2.1.GeneratedMSBuildEditorConfig.editorconfig
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\2\2.1\obj\Debug\net6.0\2.1.AssemblyInfoInputs.cache
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\2\2.1\obj\Debug\net6.0\2.1.AssemblyInfo.cs
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\2\2.1\obj\Debug\net6.0\2.1.csproj.CoreCompileInputs.cache
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\2\2.1\obj\Debug\net6.0\2.1.dll
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\2\2.1\obj\Debug\net6.0\ref\2.1.dll
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\2\2.1\obj\Debug\net6.0\2.1.pdb
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\2\2.1\obj\Debug\net6.0\2.1.genruntimeconfig.cache

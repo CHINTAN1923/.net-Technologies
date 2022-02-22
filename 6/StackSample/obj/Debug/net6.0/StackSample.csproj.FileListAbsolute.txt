@@ -1,0 +1,30 @@
+E:\.net practical\6\MAIN\StackSample\bin\Debug\net6.0\StackSample.exe
+E:\.net practical\6\MAIN\StackSample\bin\Debug\net6.0\StackSample.deps.json
+E:\.net practical\6\MAIN\StackSample\bin\Debug\net6.0\StackSample.runtimeconfig.json
+E:\.net practical\6\MAIN\StackSample\bin\Debug\net6.0\StackSample.dll
+E:\.net practical\6\MAIN\StackSample\bin\Debug\net6.0\ref\StackSample.dll
+E:\.net practical\6\MAIN\StackSample\bin\Debug\net6.0\StackSample.pdb
+E:\.net practical\6\MAIN\StackSample\obj\Debug\net6.0\StackSample.csproj.AssemblyReference.cache
+E:\.net practical\6\MAIN\StackSample\obj\Debug\net6.0\StackSample.GeneratedMSBuildEditorConfig.editorconfig
+E:\.net practical\6\MAIN\StackSample\obj\Debug\net6.0\StackSample.AssemblyInfoInputs.cache
+E:\.net practical\6\MAIN\StackSample\obj\Debug\net6.0\StackSample.AssemblyInfo.cs
+E:\.net practical\6\MAIN\StackSample\obj\Debug\net6.0\StackSample.csproj.CoreCompileInputs.cache
+E:\.net practical\6\MAIN\StackSample\obj\Debug\net6.0\StackSample.dll
+E:\.net practical\6\MAIN\StackSample\obj\Debug\net6.0\ref\StackSample.dll
+E:\.net practical\6\MAIN\StackSample\obj\Debug\net6.0\StackSample.pdb
+E:\.net practical\6\MAIN\StackSample\obj\Debug\net6.0\StackSample.genruntimeconfig.cache
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\StackSample\bin\Debug\net6.0\StackSample.exe
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\StackSample\bin\Debug\net6.0\StackSample.deps.json
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\StackSample\bin\Debug\net6.0\StackSample.runtimeconfig.json
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\StackSample\bin\Debug\net6.0\StackSample.dll
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\StackSample\bin\Debug\net6.0\ref\StackSample.dll
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\StackSample\bin\Debug\net6.0\StackSample.pdb
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\StackSample\obj\Debug\net6.0\StackSample.csproj.AssemblyReference.cache
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\StackSample\obj\Debug\net6.0\StackSample.GeneratedMSBuildEditorConfig.editorconfig
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\StackSample\obj\Debug\net6.0\StackSample.AssemblyInfoInputs.cache
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\StackSample\obj\Debug\net6.0\StackSample.AssemblyInfo.cs
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\StackSample\obj\Debug\net6.0\StackSample.csproj.CoreCompileInputs.cache
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\StackSample\obj\Debug\net6.0\StackSample.dll
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\StackSample\obj\Debug\net6.0\ref\StackSample.dll
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\StackSample\obj\Debug\net6.0\StackSample.pdb
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\StackSample\obj\Debug\net6.0\StackSample.genruntimeconfig.cache

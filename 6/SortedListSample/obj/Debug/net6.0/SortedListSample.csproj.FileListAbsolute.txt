@@ -1,0 +1,30 @@
+E:\.net practical\6\MAIN\SortedListSample\bin\Debug\net6.0\SortedListSample.exe
+E:\.net practical\6\MAIN\SortedListSample\bin\Debug\net6.0\SortedListSample.deps.json
+E:\.net practical\6\MAIN\SortedListSample\bin\Debug\net6.0\SortedListSample.runtimeconfig.json
+E:\.net practical\6\MAIN\SortedListSample\bin\Debug\net6.0\SortedListSample.dll
+E:\.net practical\6\MAIN\SortedListSample\bin\Debug\net6.0\ref\SortedListSample.dll
+E:\.net practical\6\MAIN\SortedListSample\bin\Debug\net6.0\SortedListSample.pdb
+E:\.net practical\6\MAIN\SortedListSample\obj\Debug\net6.0\SortedListSample.csproj.AssemblyReference.cache
+E:\.net practical\6\MAIN\SortedListSample\obj\Debug\net6.0\SortedListSample.GeneratedMSBuildEditorConfig.editorconfig
+E:\.net practical\6\MAIN\SortedListSample\obj\Debug\net6.0\SortedListSample.AssemblyInfoInputs.cache
+E:\.net practical\6\MAIN\SortedListSample\obj\Debug\net6.0\SortedListSample.AssemblyInfo.cs
+E:\.net practical\6\MAIN\SortedListSample\obj\Debug\net6.0\SortedListSample.csproj.CoreCompileInputs.cache
+E:\.net practical\6\MAIN\SortedListSample\obj\Debug\net6.0\SortedListSample.dll
+E:\.net practical\6\MAIN\SortedListSample\obj\Debug\net6.0\ref\SortedListSample.dll
+E:\.net practical\6\MAIN\SortedListSample\obj\Debug\net6.0\SortedListSample.pdb
+E:\.net practical\6\MAIN\SortedListSample\obj\Debug\net6.0\SortedListSample.genruntimeconfig.cache
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\SortedListSample\bin\Debug\net6.0\SortedListSample.exe
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\SortedListSample\bin\Debug\net6.0\SortedListSample.deps.json
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\SortedListSample\bin\Debug\net6.0\SortedListSample.runtimeconfig.json
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\SortedListSample\bin\Debug\net6.0\SortedListSample.dll
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\SortedListSample\bin\Debug\net6.0\ref\SortedListSample.dll
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\SortedListSample\bin\Debug\net6.0\SortedListSample.pdb
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\SortedListSample\obj\Debug\net6.0\SortedListSample.csproj.AssemblyReference.cache
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\SortedListSample\obj\Debug\net6.0\SortedListSample.GeneratedMSBuildEditorConfig.editorconfig
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\SortedListSample\obj\Debug\net6.0\SortedListSample.AssemblyInfoInputs.cache
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\SortedListSample\obj\Debug\net6.0\SortedListSample.AssemblyInfo.cs
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\SortedListSample\obj\Debug\net6.0\SortedListSample.csproj.CoreCompileInputs.cache
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\SortedListSample\obj\Debug\net6.0\SortedListSample.dll
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\SortedListSample\obj\Debug\net6.0\ref\SortedListSample.dll
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\SortedListSample\obj\Debug\net6.0\SortedListSample.pdb
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\SortedListSample\obj\Debug\net6.0\SortedListSample.genruntimeconfig.cache

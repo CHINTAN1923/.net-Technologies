@@ -1,0 +1,30 @@
+E:\.net practical\6\MAIN\ListSamples\bin\Debug\net6.0\ListSamples.exe
+E:\.net practical\6\MAIN\ListSamples\bin\Debug\net6.0\ListSamples.deps.json
+E:\.net practical\6\MAIN\ListSamples\bin\Debug\net6.0\ListSamples.runtimeconfig.json
+E:\.net practical\6\MAIN\ListSamples\bin\Debug\net6.0\ListSamples.dll
+E:\.net practical\6\MAIN\ListSamples\bin\Debug\net6.0\ref\ListSamples.dll
+E:\.net practical\6\MAIN\ListSamples\bin\Debug\net6.0\ListSamples.pdb
+E:\.net practical\6\MAIN\ListSamples\obj\Debug\net6.0\ListSamples.csproj.AssemblyReference.cache
+E:\.net practical\6\MAIN\ListSamples\obj\Debug\net6.0\ListSamples.GeneratedMSBuildEditorConfig.editorconfig
+E:\.net practical\6\MAIN\ListSamples\obj\Debug\net6.0\ListSamples.AssemblyInfoInputs.cache
+E:\.net practical\6\MAIN\ListSamples\obj\Debug\net6.0\ListSamples.AssemblyInfo.cs
+E:\.net practical\6\MAIN\ListSamples\obj\Debug\net6.0\ListSamples.csproj.CoreCompileInputs.cache
+E:\.net practical\6\MAIN\ListSamples\obj\Debug\net6.0\ListSamples.dll
+E:\.net practical\6\MAIN\ListSamples\obj\Debug\net6.0\ref\ListSamples.dll
+E:\.net practical\6\MAIN\ListSamples\obj\Debug\net6.0\ListSamples.pdb
+E:\.net practical\6\MAIN\ListSamples\obj\Debug\net6.0\ListSamples.genruntimeconfig.cache
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\ListSamples\bin\Debug\net6.0\ListSamples.exe
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\ListSamples\bin\Debug\net6.0\ListSamples.deps.json
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\ListSamples\bin\Debug\net6.0\ListSamples.runtimeconfig.json
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\ListSamples\bin\Debug\net6.0\ListSamples.dll
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\ListSamples\bin\Debug\net6.0\ref\ListSamples.dll
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\ListSamples\bin\Debug\net6.0\ListSamples.pdb
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\ListSamples\obj\Debug\net6.0\ListSamples.csproj.AssemblyReference.cache
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\ListSamples\obj\Debug\net6.0\ListSamples.GeneratedMSBuildEditorConfig.editorconfig
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\ListSamples\obj\Debug\net6.0\ListSamples.AssemblyInfoInputs.cache
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\ListSamples\obj\Debug\net6.0\ListSamples.AssemblyInfo.cs
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\ListSamples\obj\Debug\net6.0\ListSamples.csproj.CoreCompileInputs.cache
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\ListSamples\obj\Debug\net6.0\ListSamples.dll
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\ListSamples\obj\Debug\net6.0\ref\ListSamples.dll
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\ListSamples\obj\Debug\net6.0\ListSamples.pdb
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\ListSamples\obj\Debug\net6.0\ListSamples.genruntimeconfig.cache

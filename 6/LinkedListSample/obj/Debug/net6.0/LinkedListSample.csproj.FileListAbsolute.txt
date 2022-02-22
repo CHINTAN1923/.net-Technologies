@@ -1,0 +1,30 @@
+E:\.net practical\6\MAIN\LinkedListSample\bin\Debug\net6.0\LinkedListSample.exe
+E:\.net practical\6\MAIN\LinkedListSample\bin\Debug\net6.0\LinkedListSample.deps.json
+E:\.net practical\6\MAIN\LinkedListSample\bin\Debug\net6.0\LinkedListSample.runtimeconfig.json
+E:\.net practical\6\MAIN\LinkedListSample\bin\Debug\net6.0\LinkedListSample.dll
+E:\.net practical\6\MAIN\LinkedListSample\bin\Debug\net6.0\ref\LinkedListSample.dll
+E:\.net practical\6\MAIN\LinkedListSample\bin\Debug\net6.0\LinkedListSample.pdb
+E:\.net practical\6\MAIN\LinkedListSample\obj\Debug\net6.0\LinkedListSample.csproj.AssemblyReference.cache
+E:\.net practical\6\MAIN\LinkedListSample\obj\Debug\net6.0\LinkedListSample.GeneratedMSBuildEditorConfig.editorconfig
+E:\.net practical\6\MAIN\LinkedListSample\obj\Debug\net6.0\LinkedListSample.AssemblyInfoInputs.cache
+E:\.net practical\6\MAIN\LinkedListSample\obj\Debug\net6.0\LinkedListSample.AssemblyInfo.cs
+E:\.net practical\6\MAIN\LinkedListSample\obj\Debug\net6.0\LinkedListSample.csproj.CoreCompileInputs.cache
+E:\.net practical\6\MAIN\LinkedListSample\obj\Debug\net6.0\LinkedListSample.dll
+E:\.net practical\6\MAIN\LinkedListSample\obj\Debug\net6.0\ref\LinkedListSample.dll
+E:\.net practical\6\MAIN\LinkedListSample\obj\Debug\net6.0\LinkedListSample.pdb
+E:\.net practical\6\MAIN\LinkedListSample\obj\Debug\net6.0\LinkedListSample.genruntimeconfig.cache
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\LinkedListSample\bin\Debug\net6.0\LinkedListSample.exe
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\LinkedListSample\bin\Debug\net6.0\LinkedListSample.deps.json
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\LinkedListSample\bin\Debug\net6.0\LinkedListSample.runtimeconfig.json
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\LinkedListSample\bin\Debug\net6.0\LinkedListSample.dll
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\LinkedListSample\bin\Debug\net6.0\ref\LinkedListSample.dll
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\LinkedListSample\bin\Debug\net6.0\LinkedListSample.pdb
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\LinkedListSample\obj\Debug\net6.0\LinkedListSample.csproj.AssemblyReference.cache
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\LinkedListSample\obj\Debug\net6.0\LinkedListSample.GeneratedMSBuildEditorConfig.editorconfig
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\LinkedListSample\obj\Debug\net6.0\LinkedListSample.AssemblyInfoInputs.cache
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\LinkedListSample\obj\Debug\net6.0\LinkedListSample.AssemblyInfo.cs
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\LinkedListSample\obj\Debug\net6.0\LinkedListSample.csproj.CoreCompileInputs.cache
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\LinkedListSample\obj\Debug\net6.0\LinkedListSample.dll
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\LinkedListSample\obj\Debug\net6.0\ref\LinkedListSample.dll
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\LinkedListSample\obj\Debug\net6.0\LinkedListSample.pdb
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\LinkedListSample\obj\Debug\net6.0\LinkedListSample.genruntimeconfig.cache

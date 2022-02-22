@@ -1,0 +1,30 @@
+E:\.net practical\6\MAIN\LookupSample\bin\Debug\net6.0\LookupSample.exe
+E:\.net practical\6\MAIN\LookupSample\bin\Debug\net6.0\LookupSample.deps.json
+E:\.net practical\6\MAIN\LookupSample\bin\Debug\net6.0\LookupSample.runtimeconfig.json
+E:\.net practical\6\MAIN\LookupSample\bin\Debug\net6.0\LookupSample.dll
+E:\.net practical\6\MAIN\LookupSample\bin\Debug\net6.0\ref\LookupSample.dll
+E:\.net practical\6\MAIN\LookupSample\bin\Debug\net6.0\LookupSample.pdb
+E:\.net practical\6\MAIN\LookupSample\obj\Debug\net6.0\LookupSample.csproj.AssemblyReference.cache
+E:\.net practical\6\MAIN\LookupSample\obj\Debug\net6.0\LookupSample.GeneratedMSBuildEditorConfig.editorconfig
+E:\.net practical\6\MAIN\LookupSample\obj\Debug\net6.0\LookupSample.AssemblyInfoInputs.cache
+E:\.net practical\6\MAIN\LookupSample\obj\Debug\net6.0\LookupSample.AssemblyInfo.cs
+E:\.net practical\6\MAIN\LookupSample\obj\Debug\net6.0\LookupSample.csproj.CoreCompileInputs.cache
+E:\.net practical\6\MAIN\LookupSample\obj\Debug\net6.0\LookupSample.dll
+E:\.net practical\6\MAIN\LookupSample\obj\Debug\net6.0\ref\LookupSample.dll
+E:\.net practical\6\MAIN\LookupSample\obj\Debug\net6.0\LookupSample.pdb
+E:\.net practical\6\MAIN\LookupSample\obj\Debug\net6.0\LookupSample.genruntimeconfig.cache
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\LookupSample\bin\Debug\net6.0\LookupSample.exe
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\LookupSample\bin\Debug\net6.0\LookupSample.deps.json
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\LookupSample\bin\Debug\net6.0\LookupSample.runtimeconfig.json
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\LookupSample\bin\Debug\net6.0\LookupSample.dll
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\LookupSample\bin\Debug\net6.0\ref\LookupSample.dll
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\LookupSample\bin\Debug\net6.0\LookupSample.pdb
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\LookupSample\obj\Debug\net6.0\LookupSample.csproj.AssemblyReference.cache
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\LookupSample\obj\Debug\net6.0\LookupSample.GeneratedMSBuildEditorConfig.editorconfig
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\LookupSample\obj\Debug\net6.0\LookupSample.AssemblyInfoInputs.cache
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\LookupSample\obj\Debug\net6.0\LookupSample.AssemblyInfo.cs
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\LookupSample\obj\Debug\net6.0\LookupSample.csproj.CoreCompileInputs.cache
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\LookupSample\obj\Debug\net6.0\LookupSample.dll
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\LookupSample\obj\Debug\net6.0\ref\LookupSample.dll
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\LookupSample\obj\Debug\net6.0\LookupSample.pdb
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\LookupSample\obj\Debug\net6.0\LookupSample.genruntimeconfig.cache

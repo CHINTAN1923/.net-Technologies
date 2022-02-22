@@ -1,0 +1,30 @@
+E:\.net practical\7\1\bin\Debug\net6.0\1.exe
+E:\.net practical\7\1\bin\Debug\net6.0\1.deps.json
+E:\.net practical\7\1\bin\Debug\net6.0\1.runtimeconfig.json
+E:\.net practical\7\1\bin\Debug\net6.0\1.dll
+E:\.net practical\7\1\bin\Debug\net6.0\ref\1.dll
+E:\.net practical\7\1\bin\Debug\net6.0\1.pdb
+E:\.net practical\7\1\obj\Debug\net6.0\1.csproj.AssemblyReference.cache
+E:\.net practical\7\1\obj\Debug\net6.0\1.GeneratedMSBuildEditorConfig.editorconfig
+E:\.net practical\7\1\obj\Debug\net6.0\1.AssemblyInfoInputs.cache
+E:\.net practical\7\1\obj\Debug\net6.0\1.AssemblyInfo.cs
+E:\.net practical\7\1\obj\Debug\net6.0\1.csproj.CoreCompileInputs.cache
+E:\.net practical\7\1\obj\Debug\net6.0\1.dll
+E:\.net practical\7\1\obj\Debug\net6.0\ref\1.dll
+E:\.net practical\7\1\obj\Debug\net6.0\1.pdb
+E:\.net practical\7\1\obj\Debug\net6.0\1.genruntimeconfig.cache
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\7\7.1\bin\Debug\net6.0\1.exe
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\7\7.1\bin\Debug\net6.0\1.deps.json
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\7\7.1\bin\Debug\net6.0\1.runtimeconfig.json
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\7\7.1\bin\Debug\net6.0\1.dll
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\7\7.1\bin\Debug\net6.0\ref\1.dll
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\7\7.1\bin\Debug\net6.0\1.pdb
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\7\7.1\obj\Debug\net6.0\1.csproj.AssemblyReference.cache
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\7\7.1\obj\Debug\net6.0\1.GeneratedMSBuildEditorConfig.editorconfig
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\7\7.1\obj\Debug\net6.0\1.AssemblyInfoInputs.cache
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\7\7.1\obj\Debug\net6.0\1.AssemblyInfo.cs
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\7\7.1\obj\Debug\net6.0\1.csproj.CoreCompileInputs.cache
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\7\7.1\obj\Debug\net6.0\1.dll
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\7\7.1\obj\Debug\net6.0\ref\1.dll
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\7\7.1\obj\Debug\net6.0\1.pdb
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\7\7.1\obj\Debug\net6.0\1.genruntimeconfig.cache

@@ -1,0 +1,45 @@
+E:\.net practical\6\MAIN\BitArraySample\bin\Debug\net6.0\BitArraySample.exe
+E:\.net practical\6\MAIN\BitArraySample\bin\Debug\net6.0\BitArraySample.deps.json
+E:\.net practical\6\MAIN\BitArraySample\bin\Debug\net6.0\BitArraySample.runtimeconfig.json
+E:\.net practical\6\MAIN\BitArraySample\bin\Debug\net6.0\BitArraySample.dll
+E:\.net practical\6\MAIN\BitArraySample\bin\Debug\net6.0\ref\BitArraySample.dll
+E:\.net practical\6\MAIN\BitArraySample\bin\Debug\net6.0\BitArraySample.pdb
+E:\.net practical\6\MAIN\BitArraySample\obj\Debug\net6.0\BitArraySample.csproj.AssemblyReference.cache
+E:\.net practical\6\MAIN\BitArraySample\obj\Debug\net6.0\BitArraySample.GeneratedMSBuildEditorConfig.editorconfig
+E:\.net practical\6\MAIN\BitArraySample\obj\Debug\net6.0\BitArraySample.AssemblyInfoInputs.cache
+E:\.net practical\6\MAIN\BitArraySample\obj\Debug\net6.0\BitArraySample.AssemblyInfo.cs
+E:\.net practical\6\MAIN\BitArraySample\obj\Debug\net6.0\BitArraySample.csproj.CoreCompileInputs.cache
+E:\.net practical\6\MAIN\BitArraySample\obj\Debug\net6.0\BitArraySample.dll
+E:\.net practical\6\MAIN\BitArraySample\obj\Debug\net6.0\ref\BitArraySample.dll
+E:\.net practical\6\MAIN\BitArraySample\obj\Debug\net6.0\BitArraySample.pdb
+E:\.net practical\6\MAIN\BitArraySample\obj\Debug\net6.0\BitArraySample.genruntimeconfig.cache
+C:\Users\Admin\Desktop\MAIN\MAIN\BitArraySample\bin\Debug\net6.0\BitArraySample.exe
+C:\Users\Admin\Desktop\MAIN\MAIN\BitArraySample\bin\Debug\net6.0\BitArraySample.deps.json
+C:\Users\Admin\Desktop\MAIN\MAIN\BitArraySample\bin\Debug\net6.0\BitArraySample.runtimeconfig.json
+C:\Users\Admin\Desktop\MAIN\MAIN\BitArraySample\bin\Debug\net6.0\BitArraySample.dll
+C:\Users\Admin\Desktop\MAIN\MAIN\BitArraySample\bin\Debug\net6.0\ref\BitArraySample.dll
+C:\Users\Admin\Desktop\MAIN\MAIN\BitArraySample\bin\Debug\net6.0\BitArraySample.pdb
+C:\Users\Admin\Desktop\MAIN\MAIN\BitArraySample\obj\Debug\net6.0\BitArraySample.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\MAIN\MAIN\BitArraySample\obj\Debug\net6.0\BitArraySample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\MAIN\MAIN\BitArraySample\obj\Debug\net6.0\BitArraySample.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\MAIN\MAIN\BitArraySample\obj\Debug\net6.0\BitArraySample.AssemblyInfo.cs
+C:\Users\Admin\Desktop\MAIN\MAIN\BitArraySample\obj\Debug\net6.0\BitArraySample.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\MAIN\MAIN\BitArraySample\obj\Debug\net6.0\BitArraySample.dll
+C:\Users\Admin\Desktop\MAIN\MAIN\BitArraySample\obj\Debug\net6.0\ref\BitArraySample.dll
+C:\Users\Admin\Desktop\MAIN\MAIN\BitArraySample\obj\Debug\net6.0\BitArraySample.pdb
+C:\Users\Admin\Desktop\MAIN\MAIN\BitArraySample\obj\Debug\net6.0\BitArraySample.genruntimeconfig.cache
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\BitArraySample\bin\Debug\net6.0\BitArraySample.exe
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\BitArraySample\bin\Debug\net6.0\BitArraySample.deps.json
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\BitArraySample\bin\Debug\net6.0\BitArraySample.runtimeconfig.json
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\BitArraySample\bin\Debug\net6.0\BitArraySample.dll
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\BitArraySample\bin\Debug\net6.0\ref\BitArraySample.dll
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\BitArraySample\bin\Debug\net6.0\BitArraySample.pdb
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\BitArraySample\obj\Debug\net6.0\BitArraySample.csproj.AssemblyReference.cache
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\BitArraySample\obj\Debug\net6.0\BitArraySample.GeneratedMSBuildEditorConfig.editorconfig
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\BitArraySample\obj\Debug\net6.0\BitArraySample.AssemblyInfoInputs.cache
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\BitArraySample\obj\Debug\net6.0\BitArraySample.AssemblyInfo.cs
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\BitArraySample\obj\Debug\net6.0\BitArraySample.csproj.CoreCompileInputs.cache
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\BitArraySample\obj\Debug\net6.0\BitArraySample.dll
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\BitArraySample\obj\Debug\net6.0\ref\BitArraySample.dll
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\BitArraySample\obj\Debug\net6.0\BitArraySample.pdb
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\BitArraySample\obj\Debug\net6.0\BitArraySample.genruntimeconfig.cache

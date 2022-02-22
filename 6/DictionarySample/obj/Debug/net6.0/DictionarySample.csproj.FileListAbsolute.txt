@@ -1,0 +1,30 @@
+E:\.net practical\6\MAIN\DictionarySample\bin\Debug\net6.0\DictionarySample.exe
+E:\.net practical\6\MAIN\DictionarySample\bin\Debug\net6.0\DictionarySample.deps.json
+E:\.net practical\6\MAIN\DictionarySample\bin\Debug\net6.0\DictionarySample.runtimeconfig.json
+E:\.net practical\6\MAIN\DictionarySample\bin\Debug\net6.0\DictionarySample.dll
+E:\.net practical\6\MAIN\DictionarySample\bin\Debug\net6.0\ref\DictionarySample.dll
+E:\.net practical\6\MAIN\DictionarySample\bin\Debug\net6.0\DictionarySample.pdb
+E:\.net practical\6\MAIN\DictionarySample\obj\Debug\net6.0\DictionarySample.csproj.AssemblyReference.cache
+E:\.net practical\6\MAIN\DictionarySample\obj\Debug\net6.0\DictionarySample.GeneratedMSBuildEditorConfig.editorconfig
+E:\.net practical\6\MAIN\DictionarySample\obj\Debug\net6.0\DictionarySample.AssemblyInfoInputs.cache
+E:\.net practical\6\MAIN\DictionarySample\obj\Debug\net6.0\DictionarySample.AssemblyInfo.cs
+E:\.net practical\6\MAIN\DictionarySample\obj\Debug\net6.0\DictionarySample.csproj.CoreCompileInputs.cache
+E:\.net practical\6\MAIN\DictionarySample\obj\Debug\net6.0\DictionarySample.dll
+E:\.net practical\6\MAIN\DictionarySample\obj\Debug\net6.0\ref\DictionarySample.dll
+E:\.net practical\6\MAIN\DictionarySample\obj\Debug\net6.0\DictionarySample.pdb
+E:\.net practical\6\MAIN\DictionarySample\obj\Debug\net6.0\DictionarySample.genruntimeconfig.cache
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\DictionarySample\bin\Debug\net6.0\DictionarySample.exe
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\DictionarySample\bin\Debug\net6.0\DictionarySample.deps.json
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\DictionarySample\bin\Debug\net6.0\DictionarySample.runtimeconfig.json
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\DictionarySample\bin\Debug\net6.0\DictionarySample.dll
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\DictionarySample\bin\Debug\net6.0\ref\DictionarySample.dll
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\DictionarySample\bin\Debug\net6.0\DictionarySample.pdb
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\DictionarySample\obj\Debug\net6.0\DictionarySample.csproj.AssemblyReference.cache
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\DictionarySample\obj\Debug\net6.0\DictionarySample.GeneratedMSBuildEditorConfig.editorconfig
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\DictionarySample\obj\Debug\net6.0\DictionarySample.AssemblyInfoInputs.cache
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\DictionarySample\obj\Debug\net6.0\DictionarySample.AssemblyInfo.cs
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\DictionarySample\obj\Debug\net6.0\DictionarySample.csproj.CoreCompileInputs.cache
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\DictionarySample\obj\Debug\net6.0\DictionarySample.dll
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\DictionarySample\obj\Debug\net6.0\ref\DictionarySample.dll
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\DictionarySample\obj\Debug\net6.0\DictionarySample.pdb
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\DictionarySample\obj\Debug\net6.0\DictionarySample.genruntimeconfig.cache

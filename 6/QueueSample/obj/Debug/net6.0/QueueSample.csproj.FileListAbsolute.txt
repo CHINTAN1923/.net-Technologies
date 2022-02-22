@@ -1,0 +1,30 @@
+E:\.net practical\6\MAIN\QueueSample\bin\Debug\net6.0\QueueSample.exe
+E:\.net practical\6\MAIN\QueueSample\bin\Debug\net6.0\QueueSample.deps.json
+E:\.net practical\6\MAIN\QueueSample\bin\Debug\net6.0\QueueSample.runtimeconfig.json
+E:\.net practical\6\MAIN\QueueSample\bin\Debug\net6.0\QueueSample.dll
+E:\.net practical\6\MAIN\QueueSample\bin\Debug\net6.0\ref\QueueSample.dll
+E:\.net practical\6\MAIN\QueueSample\bin\Debug\net6.0\QueueSample.pdb
+E:\.net practical\6\MAIN\QueueSample\obj\Debug\net6.0\QueueSample.csproj.AssemblyReference.cache
+E:\.net practical\6\MAIN\QueueSample\obj\Debug\net6.0\QueueSample.GeneratedMSBuildEditorConfig.editorconfig
+E:\.net practical\6\MAIN\QueueSample\obj\Debug\net6.0\QueueSample.AssemblyInfoInputs.cache
+E:\.net practical\6\MAIN\QueueSample\obj\Debug\net6.0\QueueSample.AssemblyInfo.cs
+E:\.net practical\6\MAIN\QueueSample\obj\Debug\net6.0\QueueSample.csproj.CoreCompileInputs.cache
+E:\.net practical\6\MAIN\QueueSample\obj\Debug\net6.0\QueueSample.dll
+E:\.net practical\6\MAIN\QueueSample\obj\Debug\net6.0\ref\QueueSample.dll
+E:\.net practical\6\MAIN\QueueSample\obj\Debug\net6.0\QueueSample.pdb
+E:\.net practical\6\MAIN\QueueSample\obj\Debug\net6.0\QueueSample.genruntimeconfig.cache
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\QueueSample\bin\Debug\net6.0\QueueSample.exe
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\QueueSample\bin\Debug\net6.0\QueueSample.deps.json
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\QueueSample\bin\Debug\net6.0\QueueSample.runtimeconfig.json
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\QueueSample\bin\Debug\net6.0\QueueSample.dll
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\QueueSample\bin\Debug\net6.0\ref\QueueSample.dll
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\QueueSample\bin\Debug\net6.0\QueueSample.pdb
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\QueueSample\obj\Debug\net6.0\QueueSample.csproj.AssemblyReference.cache
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\QueueSample\obj\Debug\net6.0\QueueSample.GeneratedMSBuildEditorConfig.editorconfig
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\QueueSample\obj\Debug\net6.0\QueueSample.AssemblyInfoInputs.cache
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\QueueSample\obj\Debug\net6.0\QueueSample.AssemblyInfo.cs
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\QueueSample\obj\Debug\net6.0\QueueSample.csproj.CoreCompileInputs.cache
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\QueueSample\obj\Debug\net6.0\QueueSample.dll
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\QueueSample\obj\Debug\net6.0\ref\QueueSample.dll
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\QueueSample\obj\Debug\net6.0\QueueSample.pdb
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\QueueSample\obj\Debug\net6.0\QueueSample.genruntimeconfig.cache

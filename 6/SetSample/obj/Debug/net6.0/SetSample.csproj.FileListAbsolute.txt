@@ -1,0 +1,30 @@
+E:\.net practical\6\MAIN\SetSample\bin\Debug\net6.0\SetSample.exe
+E:\.net practical\6\MAIN\SetSample\bin\Debug\net6.0\SetSample.deps.json
+E:\.net practical\6\MAIN\SetSample\bin\Debug\net6.0\SetSample.runtimeconfig.json
+E:\.net practical\6\MAIN\SetSample\bin\Debug\net6.0\SetSample.dll
+E:\.net practical\6\MAIN\SetSample\bin\Debug\net6.0\ref\SetSample.dll
+E:\.net practical\6\MAIN\SetSample\bin\Debug\net6.0\SetSample.pdb
+E:\.net practical\6\MAIN\SetSample\obj\Debug\net6.0\SetSample.csproj.AssemblyReference.cache
+E:\.net practical\6\MAIN\SetSample\obj\Debug\net6.0\SetSample.GeneratedMSBuildEditorConfig.editorconfig
+E:\.net practical\6\MAIN\SetSample\obj\Debug\net6.0\SetSample.AssemblyInfoInputs.cache
+E:\.net practical\6\MAIN\SetSample\obj\Debug\net6.0\SetSample.AssemblyInfo.cs
+E:\.net practical\6\MAIN\SetSample\obj\Debug\net6.0\SetSample.csproj.CoreCompileInputs.cache
+E:\.net practical\6\MAIN\SetSample\obj\Debug\net6.0\SetSample.dll
+E:\.net practical\6\MAIN\SetSample\obj\Debug\net6.0\ref\SetSample.dll
+E:\.net practical\6\MAIN\SetSample\obj\Debug\net6.0\SetSample.pdb
+E:\.net practical\6\MAIN\SetSample\obj\Debug\net6.0\SetSample.genruntimeconfig.cache
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\SetSample\bin\Debug\net6.0\SetSample.exe
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\SetSample\bin\Debug\net6.0\SetSample.deps.json
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\SetSample\bin\Debug\net6.0\SetSample.runtimeconfig.json
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\SetSample\bin\Debug\net6.0\SetSample.dll
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\SetSample\bin\Debug\net6.0\ref\SetSample.dll
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\SetSample\bin\Debug\net6.0\SetSample.pdb
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\SetSample\obj\Debug\net6.0\SetSample.csproj.AssemblyReference.cache
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\SetSample\obj\Debug\net6.0\SetSample.GeneratedMSBuildEditorConfig.editorconfig
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\SetSample\obj\Debug\net6.0\SetSample.AssemblyInfoInputs.cache
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\SetSample\obj\Debug\net6.0\SetSample.AssemblyInfo.cs
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\SetSample\obj\Debug\net6.0\SetSample.csproj.CoreCompileInputs.cache
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\SetSample\obj\Debug\net6.0\SetSample.dll
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\SetSample\obj\Debug\net6.0\ref\SetSample.dll
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\SetSample\obj\Debug\net6.0\SetSample.pdb
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\SetSample\obj\Debug\net6.0\SetSample.genruntimeconfig.cache

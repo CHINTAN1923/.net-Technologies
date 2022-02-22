@@ -1,0 +1,30 @@
+E:\.net practical\6\MAIN\ObservableCollectionSample\bin\Debug\net6.0\ObservableCollectionSample.exe
+E:\.net practical\6\MAIN\ObservableCollectionSample\bin\Debug\net6.0\ObservableCollectionSample.deps.json
+E:\.net practical\6\MAIN\ObservableCollectionSample\bin\Debug\net6.0\ObservableCollectionSample.runtimeconfig.json
+E:\.net practical\6\MAIN\ObservableCollectionSample\bin\Debug\net6.0\ObservableCollectionSample.dll
+E:\.net practical\6\MAIN\ObservableCollectionSample\bin\Debug\net6.0\ref\ObservableCollectionSample.dll
+E:\.net practical\6\MAIN\ObservableCollectionSample\bin\Debug\net6.0\ObservableCollectionSample.pdb
+E:\.net practical\6\MAIN\ObservableCollectionSample\obj\Debug\net6.0\ObservableCollectionSample.csproj.AssemblyReference.cache
+E:\.net practical\6\MAIN\ObservableCollectionSample\obj\Debug\net6.0\ObservableCollectionSample.GeneratedMSBuildEditorConfig.editorconfig
+E:\.net practical\6\MAIN\ObservableCollectionSample\obj\Debug\net6.0\ObservableCollectionSample.AssemblyInfoInputs.cache
+E:\.net practical\6\MAIN\ObservableCollectionSample\obj\Debug\net6.0\ObservableCollectionSample.AssemblyInfo.cs
+E:\.net practical\6\MAIN\ObservableCollectionSample\obj\Debug\net6.0\ObservableCollectionSample.csproj.CoreCompileInputs.cache
+E:\.net practical\6\MAIN\ObservableCollectionSample\obj\Debug\net6.0\ObservableCollectionSample.dll
+E:\.net practical\6\MAIN\ObservableCollectionSample\obj\Debug\net6.0\ref\ObservableCollectionSample.dll
+E:\.net practical\6\MAIN\ObservableCollectionSample\obj\Debug\net6.0\ObservableCollectionSample.pdb
+E:\.net practical\6\MAIN\ObservableCollectionSample\obj\Debug\net6.0\ObservableCollectionSample.genruntimeconfig.cache
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\ObservableCollectionSample\bin\Debug\net6.0\ObservableCollectionSample.exe
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\ObservableCollectionSample\bin\Debug\net6.0\ObservableCollectionSample.deps.json
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\ObservableCollectionSample\bin\Debug\net6.0\ObservableCollectionSample.runtimeconfig.json
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\ObservableCollectionSample\bin\Debug\net6.0\ObservableCollectionSample.dll
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\ObservableCollectionSample\bin\Debug\net6.0\ref\ObservableCollectionSample.dll
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\ObservableCollectionSample\bin\Debug\net6.0\ObservableCollectionSample.pdb
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\ObservableCollectionSample\obj\Debug\net6.0\ObservableCollectionSample.csproj.AssemblyReference.cache
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\ObservableCollectionSample\obj\Debug\net6.0\ObservableCollectionSample.GeneratedMSBuildEditorConfig.editorconfig
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\ObservableCollectionSample\obj\Debug\net6.0\ObservableCollectionSample.AssemblyInfoInputs.cache
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\ObservableCollectionSample\obj\Debug\net6.0\ObservableCollectionSample.AssemblyInfo.cs
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\ObservableCollectionSample\obj\Debug\net6.0\ObservableCollectionSample.csproj.CoreCompileInputs.cache
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\ObservableCollectionSample\obj\Debug\net6.0\ObservableCollectionSample.dll
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\ObservableCollectionSample\obj\Debug\net6.0\ref\ObservableCollectionSample.dll
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\ObservableCollectionSample\obj\Debug\net6.0\ObservableCollectionSample.pdb
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\6\ObservableCollectionSample\obj\Debug\net6.0\ObservableCollectionSample.genruntimeconfig.cache
